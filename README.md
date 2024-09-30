@@ -11,7 +11,7 @@ Les jeux de données utilisés incluent **Iris** et **Labeled Faces in the Wild 
 
 ## Résultats
 
-Les performances des modèles sont comparées en termes de précision, et l'impact des paramètres comme **C** et les variables de nuisance est étudié.
+Les performances des modèles sont mesurées en termes de précision, et l'effet des paramètres comme **C** et des variables de nuisance est examiné.
 
 
 ### Prérequis
