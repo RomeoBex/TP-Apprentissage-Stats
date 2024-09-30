@@ -22,9 +22,3 @@ Les performances des modèles sont comparées en termes de précision, et l'impa
   - `scikit-learn`
   - `matplotlib`
 
-### Exécution
-
-1. Cloner le dépôt :
-   ```bash
-   git clone <url_du_dépôt>
-   cd <répertoire_du_dépôt>
