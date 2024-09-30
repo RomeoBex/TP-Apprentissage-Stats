@@ -9,7 +9,7 @@ format:
     code-fold: true
 ---
 
-  
+   
 
 ![Logo Université](images/logo_um.svg){width="30%"}
 
